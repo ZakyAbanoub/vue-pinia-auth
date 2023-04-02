@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "manuelordura",
+      "email": "manuel-ordura@gmail.com",
+      "password": "manuelordura1234"
+    },
+    {
+      "id": 2,
+      "username": "abanoubzaky",
+      "email": "abanoubzaky@gmail.com",
+      "password": "abanoubzaky1234"
+    },
+    {
+      "id": 3,
+      "username": "test",
+      "email": "test@gmail.com",
+      "password": "test"
+    }
+  ],
+  "users-info": [
+    {
+      "id": 1,
+      "first_name": "Manuel",
+      "last_name": "Ordura",
+      "age": 33,
+      "token": "a_valid_token"
+    },
+    {
+      "id": 2,
+      "first_name": "Abanoub",
+      "last_name": "Zaky",
+      "age": 25,
+      "token": "a_valid_token"
+    },
+    {
+      "id": 3,
+      "first_name": "First",
+      "last_name": "Test",
+      "age": 50,
+      "token": "a_valid_token"
+    }
+  ]
+}
